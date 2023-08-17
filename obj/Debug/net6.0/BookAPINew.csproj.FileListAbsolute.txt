@@ -1,0 +1,151 @@
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\appsettings.json
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.exe
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.deps.json
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.runtimeconfig.json
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.pdb
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.csproj.AssemblyReference.cache
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.AssemblyInfoInputs.cache
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.AssemblyInfo.cs
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\scopedcss\bundle\BookAPINew.styles.css
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.csproj.CopyComplete
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.dll
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\refint\BookAPINew.dll
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.pdb
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.genruntimeconfig.cache
+C:\Users\maher\source\repos\BookAPINew\obj\Debug\net6.0\ref\BookAPINew.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\Dapper.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maher\source\repos\BookAPINew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\appsettings.Development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\appsettings.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.deps.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.runtimeconfig.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\BookAPINew.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\Dapper.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.AssemblyInfoInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.AssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.MvcApplicationPartsAssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\staticwebassets\msbuild.BookAPINew.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\staticwebassets\msbuild.build.BookAPINew.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookAPINew.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookAPINew.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\scopedcss\bundle\BookAPINew.styles.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.csproj.CopyComplete
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\refint\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\BookAPINew.genruntimeconfig.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BookAPINew\obj\Debug\net6.0\ref\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\appsettings.Development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\appsettings.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\BookAPINew.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\BookAPINew.deps.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\BookAPINew.runtimeconfig.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\BookAPINew.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\Dapper.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.AssemblyInfoInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.AssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.MvcApplicationPartsAssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\staticwebassets\msbuild.BookAPINew.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\staticwebassets\msbuild.build.BookAPINew.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookAPINew.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookAPINew.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\scopedcss\bundle\BookAPINew.styles.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.csproj.CopyComplete
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\refint\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\BookAPINew.genruntimeconfig.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\BookAPINew\obj\Debug\net6.0\ref\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\appsettings.Development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\appsettings.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\BookAPINew.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\BookAPINew.deps.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\BookAPINew.runtimeconfig.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\BookAPINew.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\Dapper.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.AssemblyInfoInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.AssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.MvcApplicationPartsAssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\staticwebassets\msbuild.BookAPINew.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.BookAPINew.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookAPINew.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookAPINew.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\scopedcss\bundle\BookAPINew.styles.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.csproj.CopyComplete
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\refint\BookAPINew.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\BookAPINew.genruntimeconfig.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\5- APINew - BookStore\obj\Debug\net6.0\ref\BookAPINew.dll
